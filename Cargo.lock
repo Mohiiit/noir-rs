@@ -401,7 +401,7 @@ dependencies = [
 [[package]]
 name = "bb_rs"
 version = "3.0.0-nightly.20251104"
-source = "git+https://github.com/Mohiiit/aztec-packages.git?branch=mopro-garaga-bb3-ios#c3d0ee1ef59086777b20b3b7bd53734274230275"
+source = "git+https://github.com/Mohiiit/aztec-packages.git?rev=3f10fb61d2ed025184dc0956963205b61b428884#3f10fb61d2ed025184dc0956963205b61b428884"
 dependencies = [
  "bindgen",
  "cmake",
