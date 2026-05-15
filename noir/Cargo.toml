@@ -30,7 +30,7 @@ proptest = "=1.6.0"
 base64ct = { version = "=1.7" }
 
 # Optional dependencies
-bb = { package = "bb_rs", git = "https://github.com/Mohiiit/aztec-packages.git", rev = "3f10fb61d2ed025184dc0956963205b61b428884", optional = true }
+bb = { package = "bb_rs", git = "https://github.com/Mohiiit/aztec-packages.git", rev = "3f10fb6af04c3e348f5c38ab7694985a2d79c02b", optional = true }
 openssl = { version = "0.10", features = ["vendored"], optional = true }
 
 [features]

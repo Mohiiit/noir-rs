@@ -401,7 +401,7 @@ dependencies = [
 [[package]]
 name = "bb_rs"
 version = "3.0.0-nightly.20251104"
-source = "git+https://github.com/Mohiiit/aztec-packages.git?rev=3f10fb61d2ed025184dc0956963205b61b428884#3f10fb61d2ed025184dc0956963205b61b428884"
+source = "git+https://github.com/Mohiiit/aztec-packages.git?rev=3f10fb6af04c3e348f5c38ab7694985a2d79c02b#3f10fb6af04c3e348f5c38ab7694985a2d79c02b"
 dependencies = [
  "bindgen",
  "cmake",
